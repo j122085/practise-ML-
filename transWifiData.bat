@@ -1,0 +1,1 @@
+python D:\PythonCode\prastic\WifiMongo.py
